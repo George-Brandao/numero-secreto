@@ -1,0 +1,13 @@
+Flask
+Django
+Requests
+SQLAlchemy
+Pytest
+PyYAML
+Paramiko
+Fabric
+Ansible
+pandas
+selenium
+pyspark
+numpy
